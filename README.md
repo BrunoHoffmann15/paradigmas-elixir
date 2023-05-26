@@ -1,4 +1,4 @@
-# Paradigmas de Programação - Elixier
+# Paradigmas de Programação - Elixir
 
 ## Instruções
 
